@@ -1,6 +1,6 @@
-# Compsys303 Assignment 2
-This assignment involves designing a pacemaker controller on a softcore NIOS 2 processor implemented on a Altera(DE2-115) FPGA. 
-with two modes. Refer to presentation for design information.
+# Introduction
+This project involves designing a pacemaker controller on a softcore NIOSII processor implemented on a Altera(DE2-115) FPGA. 
+It has two modes of operation. Refer to presentation for design information.
 
 ## Run instructions
 * Connect FPGA to PC using blaster and UART via RS232 cable
