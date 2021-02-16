@@ -1,5 +1,5 @@
 # Compsys303 Assignment 2
-This assignment involves designing a pacemaker controller on a Altera(DE2-115) FPGA 
+This assignment involves designing a pacemaker controller on a softcore NIOS 2 processor implemented on a Altera(DE2-115) FPGA. 
 with two modes. Refer to presentation for design information.
 
 ## Run instructions
