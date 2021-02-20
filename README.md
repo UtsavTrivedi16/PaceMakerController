@@ -1,5 +1,5 @@
 # Introduction
-This project involves designing a pacemaker controller on a softcore NIOSII processor implemented on a Altera(DE2-115) FPGA. 
+This project involves designing a pacemaker controller on a softcore NiosII processor implemented on a Altera(DE2-115) FPGA. 
 It has two modes of operation. Refer to presentation for design information.
 
 ## Run instructions
